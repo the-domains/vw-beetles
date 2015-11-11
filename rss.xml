@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VW Beetles]]></title>
+        <description><![CDATA[VW Beetles]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 Nov 2015 21:39:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://retroexpressions.net/wp-content/uploads/2014/06/vintage-volkswagen-beetle-bug-02.jpg">]]></description>
+            <link>undefinedda97f3e6-1396-49d5-a5de-188e69f1a7b4/index.html</link>
+            <guid isPermaLink="false">da97f3e6-1396-49d5-a5de-188e69f1a7b4</guid>
+            <pubDate>Wed, 11 Nov 2015 21:39:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
