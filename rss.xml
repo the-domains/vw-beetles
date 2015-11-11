@@ -4,8 +4,15 @@
         <description><![CDATA[VW Beetles]]></description>
         <link>https://thegrid.ai/vw-beetles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 21:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2015 21:42:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vw-beetles/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://wallpup.com/wp-content/uploads/2013/03/Volkswagen-Beetle-classic.jpg">]]></description>
+            <link>https://thegrid.ai/vw-beetles/505a97d6-160e-4cec-b805-5ac24a5b6d5a/index.html</link>
+            <guid isPermaLink="false">505a97d6-160e-4cec-b805-5ac24a5b6d5a</guid>
+            <pubDate>Wed, 11 Nov 2015 21:39:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://static.cargurus.com/images/site/2008/08/14/01/12/1963_volkswagen_beetle-pic-46142.jpeg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vw-beetles/b9b1537d-7222-48f6-a728-111d38a96ed2/index.html</link>
             <guid isPermaLink="false">b9b1537d-7222-48f6-a728-111d38a96ed2</guid>
             <pubDate>Wed, 11 Nov 2015 21:39:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.drewwalker.com/blog/wp-content/uploads/2011/07/vw-beetle-blue.jpg">]]></description>
-            <link>https://thegrid.ai/vw-beetles/b8783f07-88fd-4c05-9d26-5ef19f3a6fe9/index.html</link>
-            <guid isPermaLink="false">b8783f07-88fd-4c05-9d26-5ef19f3a6fe9</guid>
-            <pubDate>Wed, 11 Nov 2015 21:39:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
