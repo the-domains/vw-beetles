@@ -4,8 +4,22 @@
         <description><![CDATA[VW Beetles]]></description>
         <link>https://thegrid.ai/vw-beetles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 21:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2015 21:41:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vw-beetles/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://image.motortrend.com/f/classic/features/1110_1952_volkswagen_beetle/33141776/1952-volkswagen-beetle-rear-three-quarter.jpg">]]></description>
+            <link>https://thegrid.ai/vw-beetles/eaf9a03d-c556-4bcc-a7a9-17b52d08a1e8/index.html</link>
+            <guid isPermaLink="false">eaf9a03d-c556-4bcc-a7a9-17b52d08a1e8</guid>
+            <pubDate>Wed, 11 Nov 2015 21:39:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://static.cargurus.com/images/site/2008/01/28/17/28/1951_volkswagen_beetle-pic-18567.jpeg">]]></description>
+            <link>https://thegrid.ai/vw-beetles/19100c74-0847-45a7-8899-b6c5ef134586/index.html</link>
+            <guid isPermaLink="false">19100c74-0847-45a7-8899-b6c5ef134586</guid>
+            <pubDate>Wed, 11 Nov 2015 21:39:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://static.cargurus.com/images/site/2007/07/06/16/13/1954_volkswagen_beetle-pic-32551.jpeg">]]></description>
@@ -60,13 +74,6 @@
             <description><![CDATA[<img src="http://www.volkszone.com/wp-content/uploads/2009/08/1972_vw_beetle_t756.jpg">]]></description>
             <link>https://thegrid.ai/vw-beetles/eb40a437-2382-4aa5-bb9a-615ed0ab377b/index.html</link>
             <guid isPermaLink="false">eb40a437-2382-4aa5-bb9a-615ed0ab377b</guid>
-            <pubDate>Wed, 11 Nov 2015 21:39:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://retroexpressions.net/wp-content/uploads/2014/06/vintage-volkswagen-beetle-bug-02.jpg">]]></description>
-            <link>https://thegrid.ai/vw-beetles/da97f3e6-1396-49d5-a5de-188e69f1a7b4/index.html</link>
-            <guid isPermaLink="false">da97f3e6-1396-49d5-a5de-188e69f1a7b4</guid>
             <pubDate>Wed, 11 Nov 2015 21:39:21 GMT</pubDate>
         </item>
     </channel>
