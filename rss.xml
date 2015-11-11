@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[VW Beetles]]></title>
         <description><![CDATA[VW Beetles]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vw-beetles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 21:39:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 Nov 2015 21:40:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vw-beetles/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A sea of VW's...]]></title>
+            <description><![CDATA[<article><h1>A sea of VW's...</h1><p>There are SO many different ones...</p></article>]]></description>
+            <link>https://thegrid.ai/vw-beetles/a-sea-of-vws/index.html</link>
+            <guid isPermaLink="false">c72b1832-5c1b-4a6c-b19d-60f275745c1a</guid>
+            <pubDate>Wed, 11 Nov 2015 21:39:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.volkszone.com/wp-content/uploads/2009/08/1972_vw_beetle_t756.jpg">]]></description>
+            <link>https://thegrid.ai/vw-beetles/eb40a437-2382-4aa5-bb9a-615ed0ab377b/index.html</link>
+            <guid isPermaLink="false">eb40a437-2382-4aa5-bb9a-615ed0ab377b</guid>
+            <pubDate>Wed, 11 Nov 2015 21:39:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://retroexpressions.net/wp-content/uploads/2014/06/vintage-volkswagen-beetle-bug-02.jpg">]]></description>
-            <link>undefinedda97f3e6-1396-49d5-a5de-188e69f1a7b4/index.html</link>
+            <link>https://thegrid.ai/vw-beetles/da97f3e6-1396-49d5-a5de-188e69f1a7b4/index.html</link>
             <guid isPermaLink="false">da97f3e6-1396-49d5-a5de-188e69f1a7b4</guid>
             <pubDate>Wed, 11 Nov 2015 21:39:21 GMT</pubDate>
         </item>
