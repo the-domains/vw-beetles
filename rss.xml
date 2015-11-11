@@ -4,8 +4,15 @@
         <description><![CDATA[VW Beetles]]></description>
         <link>https://thegrid.ai/vw-beetles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 21:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2015 21:42:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vw-beetles/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://static.cargurus.com/images/site/2008/08/14/01/12/1963_volkswagen_beetle-pic-46142.jpeg">]]></description>
+            <link>https://thegrid.ai/vw-beetles/f174e6df-ac07-4a7e-bf61-9ffa6881f96a/index.html</link>
+            <guid isPermaLink="false">f174e6df-ac07-4a7e-bf61-9ffa6881f96a</guid>
+            <pubDate>Wed, 11 Nov 2015 21:39:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://fc01.deviantart.net/fs70/f/2013/003/3/f/1966_vw_beetle_by_dangeruss-d5qbyyz.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://www.drewwalker.com/blog/wp-content/uploads/2011/07/vw-beetle-blue.jpg">]]></description>
             <link>https://thegrid.ai/vw-beetles/b8783f07-88fd-4c05-9d26-5ef19f3a6fe9/index.html</link>
             <guid isPermaLink="false">b8783f07-88fd-4c05-9d26-5ef19f3a6fe9</guid>
-            <pubDate>Wed, 11 Nov 2015 21:39:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A sea of VW's...]]></title>
-            <description><![CDATA[<article><h1>A sea of VW's...</h1><p>There are SO many different ones...</p></article>]]></description>
-            <link>https://thegrid.ai/vw-beetles/a-sea-of-vws/index.html</link>
-            <guid isPermaLink="false">c72b1832-5c1b-4a6c-b19d-60f275745c1a</guid>
             <pubDate>Wed, 11 Nov 2015 21:39:21 GMT</pubDate>
         </item>
     </channel>
